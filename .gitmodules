@@ -1,0 +1,3 @@
+[submodule "ESPProgrammMultisensor"]
+	path = ESPProgrammMultisensor
+	url = https://github.com/kalibdune/ESPProgrammMultisensor
